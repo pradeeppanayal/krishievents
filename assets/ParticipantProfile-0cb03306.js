@@ -1,0 +1,1 @@
+import{P as e}from"./ParticipantTemplate-91100b47.js";import{o as a,g as t,w as o,b as r,U as c}from"./index-c374139d.js";const _={__name:"ParticipantProfile",setup(s){return console.log("called"),(l,i)=>(a(),t(e,{selectedmenu:"Profile"},{default:o(()=>[r(c)]),_:1}))}};export{_ as default};

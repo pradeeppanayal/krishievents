@@ -1,0 +1,1 @@
+import{O as e}from"./OrganizerTemplate-bc570db7.js";import{o as r,g as a,w as t,b as o,U as s}from"./index-c374139d.js";const f={__name:"OrganizerProfile",setup(c){return(i,l)=>(r(),a(e,{selectedmenu:"Profile"},{default:t(()=>[o(s)]),_:1}))}};export{f as default};

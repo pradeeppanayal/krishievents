@@ -1,0 +1,1 @@
+import{E as e}from"./Events-7388c8dc.js";import{P as t}from"./ParticipantTemplate-91100b47.js";import{o as a,g as r,w as o,b as s}from"./index-c374139d.js";const _={__name:"EventsPage",setup(n){return(l,c)=>(a(),r(t,{selectedmenu:"Events"},{default:o(()=>[s(e,{allowcreate:"false",enrolllink:"/participant/events/enroll"})]),_:1}))}};export{_ as default};
