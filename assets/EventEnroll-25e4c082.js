@@ -1,1 +1,0 @@
-import{O as e}from"./OrganizerTemplate-86bbdbf6.js";import{_ as t}from"./EventEnrollPage-a3b5dc50.js";import{o as a,g as r,w as o,b as s}from"./index-b2dc6b4f.js";const f={__name:"EventEnroll",setup(n){return(_,c)=>(a(),r(e,{selectedmenu:"Events"},{default:o(()=>[s(t)]),_:1}))}};export{f as default};

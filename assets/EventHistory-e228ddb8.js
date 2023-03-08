@@ -1,1 +1,0 @@
-import{E as e}from"./Events-763a8a0f.js";import{O as r}from"./OrganizerTemplate-86bbdbf6.js";import{o as t,g as a,w as o,b as s}from"./index-b2dc6b4f.js";const _={__name:"EventHistory",setup(n){return(l,c)=>(t(),a(r,{selectedmenu:"EventHistory"},{default:o(()=>[s(e,{allowcreate:"false",enrolllink:"/organizer/enroll"})]),_:1}))}};export{_ as default};
