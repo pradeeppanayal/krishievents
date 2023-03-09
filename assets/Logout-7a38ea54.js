@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as e,a as s}from"./index-76b87ebc.js";const c={mounted:function(){this.$router.push("/")}},n={class:"about"},a=s("h1",null,"Loging you out...",-1),r=[a];function _(u,i,d,p,f,h){return t(),e("div",n,r)}const m=o(c,[["render",_]]);export{m as default};

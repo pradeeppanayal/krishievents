@@ -1,0 +1,1 @@
+import{O as t}from"./OrganizerTemplate-a0698abb.js";import{N as e}from"./Notification-0ae8e2d0.js";import{o,g as a,w as r,b as i}from"./index-3c0db1a8.js";const _={__name:"OrganizerNotificationInfo",setup(c){return(n,s)=>(o(),a(t,{selectedmenu:"Notifications"},{default:r(()=>[i(e)]),_:1}))}};export{_ as default};

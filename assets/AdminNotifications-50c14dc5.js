@@ -1,0 +1,1 @@
+import{o as t,g as e,w as o,A as a,b as i}from"./index-3c0db1a8.js";import{N as s}from"./Notification-0ae8e2d0.js";const f={__name:"AdminNotifications",setup(c){return(n,r)=>(t(),e(a,{selectedmenu:"notifications"},{default:o(()=>[i(s)]),_:1}))}};export{f as default};
